@@ -4,7 +4,9 @@
 
 ## Connect with me
 
-[<img align="left" alt="doegox | twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" />](https://twitter.com/doegox)
+[<img align="left" alt="@doegox | Twitter" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" />](https://twitter.com/doegox)
+
+[<img align="left" alt="@doegox@infosec.exchange | Mastodon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />](https://infosec.exchange/@doegox)
 
 <br /><br /><br />
 
