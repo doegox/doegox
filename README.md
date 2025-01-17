@@ -5,7 +5,7 @@
 ## Connect with me
 
 [<img align="left" alt="@doegox@infosec.exchange | Mastodon" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" />](https://infosec.exchange/@doegox)
-[<img align="left" alt="@doegox.bsky.social | Bluesky" width="50px" src="https://en.wikipedia.org/wiki/Bluesky#/media/File:Bluesky_Logo.svg" />](https://bsky.app/profile/doegox.bsky.social)
+[<img align="left" alt="@doegox.bsky.social | Bluesky" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" />](https://bsky.app/profile/doegox.bsky.social)
 
 <br /><br /><br />
 
